@@ -1,0 +1,11 @@
+[2026-05-05T10:18:18.603Z] [INFO] Application started
+[2026-05-05T10:29:31.514Z] [INFO] Home page visited
+[2026-05-05T10:38:20.047Z] [INFO] New user signed up. Username: testuser
+[2026-05-05T10:39:01.005Z] [INFO] User logged in successfully. Username: testuser
+[2026-05-05T10:39:01.756Z] [INFO] Profile page visited by: testuser
+[2026-05-05T10:39:06.428Z] [INFO] User logged out. Username: testuser
+[2026-05-05T10:39:07.017Z] [INFO] Home page visited
+[2026-05-05T10:42:37.248Z] [WARN] Signup attempt with empty fields
+[2026-05-05T10:42:50.568Z] [INFO] New user signed up. Username: admin&#x27; OR &#x27;1&#x27;=&#x27;1
+[2026-05-05T10:44:39.716Z] [WARN] Vulnerable login page visited
+[2026-05-05T10:44:51.113Z] [ERROR] SQL Injection attack detected! Username: admin' OR '1'='1
